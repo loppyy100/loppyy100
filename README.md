@@ -1,48 +1,33 @@
 <h1 align="center">Hi, I'm Tobi 👋</h1>
 
 <p align="center">
-  🎓 AI undergrad @ <b>Harbin Institute of Technology</b> · 🇨🇳<br/>
-  🧠 Building my way from <b>Python</b> → <b>Machine Learning</b><br/>
-  🎯 Chasing an AI research internship
+  🎓 AI undergrad @ <b>Harbin Institute of Technology</b><br/>
+  🤖 Reinforcement learning · computer vision · robotics<br/>
+  🎯 Looking for an AI/ML internship (01–02/2027)
 </p>
 
 ---
 
-### 👨‍💻 About me
+### 🚀 Projects
 
-- 🐍 Solid on **Python** — now climbing toward real ML
-- 🌏 Learning **中文** on the side (HSK grind, one day at a time)
-- ⚡ I build things that actually *run* — games, tools, and soon, models
-- 🔥 Big believer in tiny steps + consistency
+- 🐕 **[embedded-systems-ros2](https://github.com/loppyy100/embedded-systems-ros2)**: hand gestures (MediaPipe) control a Xiaomi CyberDog quadruped in Gazebo through ROS 2 + LCM
+- 🧠 **[ppo-cartpole](https://github.com/loppyy100/ppo-cartpole)**: PPO agent (Stable-Baselines3) solves CartPole: 485.4 / 500 average
+- 📓 **[ai-twin-journal](https://github.com/loppyy100/ai-twin-journal)**: a journal you can chat with, powered by a local LLM (Qwen via Ollama)
 
-### 🧗 Currently climbing
+### 🧗 Currently
 
-```text
-✅ Python core .......... done
-👉 NumPy ................ learning now
-   pandas
-   scikit-learn
-   PyTorch  ← the goal
-```
+- Learning **PyTorch** and deep learning
+- Moving from CartPole to continuous control → a robot dog that climbs stairs
+- Learning **中文** on the side
 
 ### 🛠️ Toolbox
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🚀 Projects I'm proud of
-
-- 🎮 **[TANK-GAME](https://github.com/loppyy100/TANK-GAME)** — a 3D tank game built in JavaScript
-- 🐍 A growing pile of Python projects — Hangman, Mad Libs, and more, all from scratch
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loppyy100&show_icons=true&theme=tokyonight" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loppyy100&layout=compact&theme=tokyonight" height="165" alt="top langs" />
-</p>
 
 ---
 
