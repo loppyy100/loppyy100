@@ -2,7 +2,8 @@
 
 <p align="center">
   🎓 AI undergrad @ <b>Harbin Institute of Technology</b><br/>
-  🤖 Reinforcement learning · computer vision · robotics<br/>
+  🤖 AI algorithm engineering · machine learning · LLMs<br/>
+  🔧 A little embedded systems on the side — not hardware<br/>
   🎯 Looking for an AI/ML internship (01–02/2027)
 </p>
 
