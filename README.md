@@ -5,6 +5,10 @@
   🎯 AI Algorithm Engineer · Machine Learning · LLMs
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Algorithm+Engineer;Machine+Learning;LLMs+%26+RAG;Building+in+public" alt="Typing SVG" /></a>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -46,7 +50,11 @@
 
 ---
 
+### 📊 Stats
+
 ![Tobi's GitHub stats](https://github-readme-stats.vercel.app/api?username=loppyy100&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loppyy100&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=loppyy100&theme=dark)
 
 ---
 
